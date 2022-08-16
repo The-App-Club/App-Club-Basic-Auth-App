@@ -1,0 +1,8 @@
+.gitkeep
+.gitignore
+*.ico
+.prettierignore
+.stylelintignore
+yarn.lock
+.firebaserc
+.firebase
